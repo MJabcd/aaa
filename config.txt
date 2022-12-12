@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "前路虽长，尤可期许！",
+"note_ch": "喜欢很喜欢认真很认真。",
 # 金句英文
-"note_en": "Although the road ahead is long, especially can be expected!"
+"note_en": "I like it very much. I like it very much."
 }
