@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "喜欢很喜欢认真很认真。",
+"note_ch": "你像是我在人间发现的宝藏。",
 # 金句英文
-"note_en": "I like it very much. I like it very much."
+"note_en": "You're like a treasure I found on earth."
 }
