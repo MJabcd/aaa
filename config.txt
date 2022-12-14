@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你像是我在人间发现的宝藏。",
+"note_ch": "注意防护，保护好自己呀，爱你！",
 # 金句英文
-"note_en": "You're like a treasure I found on earth."
+"note_en": "Pay attention to protection, protect yourself, love you!"
 }
