@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "不用质疑我对你的爱，我给你的，别人没有。",
+"note_ch": "圣诞节快乐，我的宝儿~",
 # 金句英文
-"note_en": "Don't question my love for you, I give you, others don't."
+"note_en": "Merry Christmas, my treasure ~"
 }
