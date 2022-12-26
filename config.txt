@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我会一直陪着你，不是我想，是我会！",
+"note_ch": "忙碌的日子里每天都在想你呀~",
 # 金句英文
-"note_en": "I will always be with you, not I want to, I will!"
+"note_en": "I think of you every day in my busy days."
 }
