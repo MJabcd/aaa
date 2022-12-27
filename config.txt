@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "忙碌的日子里每天都在想你呀~",
+"note_ch": "在我心里，你超好，我超爱！",
 # 金句英文
-"note_en": "I think of you every day in my busy days."
+"note_en": "In my heart, you are so good, I love!"
 }
