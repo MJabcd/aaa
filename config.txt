@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "永远喜欢你！",
+"note_ch": "以后的日子请让我干涉你的未来！（永远喜欢慧慧）",
 # 金句英文
-"note_en": "Always like you!"
+"note_en": "In the future, please let me interfere with your future! (Always like Huihui)"
 }
