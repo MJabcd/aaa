@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "新的一年，祝宝贝开心，快乐，万事胜意！",
+"note_ch": "当你在我眼前的时候，你是一切，而当你不在我眼前，一切是你！",
 # 金句英文
-"note_en": "In the New Year, I wish my baby happy, happy, everything wins!"
+"note_en": "When you are in front of me, you are everything, and when you are not in front of me, everything is you!"
 }
