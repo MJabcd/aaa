@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "比起每日的晚霞，你更让我心动！",
+"note_ch": "如果可以，我想早一点吃你做的蛋炒饭（流口水）！",
 # 金句英文
-"note_en": "Compared to the sunset glow every day, you let me heart!"
+"note_en": "If I can, I want to eat your egg fried rice earlier (drooling)!"
 }
