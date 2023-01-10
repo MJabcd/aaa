@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-10-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "今天是超级恋爱脑的MJ，爱你呀~",
+"note_ch": "你的晚安，是我这辈子听不腻的情话！",
 # 金句英文
-"note_en": "Today is super love brain MJ, love you"
+"note_en": "Your good night, is my life not tired of listening to love!"
 }
